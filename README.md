@@ -1,4 +1,4 @@
-# Anydesk_ubuntu22.04_install
+# Anydesk How to install on ubuntu 22.04
 Installation de anydesk sous ubuntu 22.04
 
 Installer AnyDesk sous Ubuntu 22.04
