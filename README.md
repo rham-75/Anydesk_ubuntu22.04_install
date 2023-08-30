@@ -23,3 +23,16 @@ $- sudo apt install anydesk
 
 4- Lancez AnyDesk sur Ubuntu
 $- anydesk
+
+
+II- Via le fichier .deb
+
+1- Télécharger le fichier.deb ci dessus et se déplacer dans le repertoire ou le fichier a été téléchargé
+par exemple : 
+$- cd Téléchargement
+
+2- exécuter la commande suivante pour installer anydesk à l'aide du .deb téléchargé
+$- sudo dpkg -i anydesk_6.3.0-1_amd64.deb
+
+3- lancer anydesk
+$- anydesk
